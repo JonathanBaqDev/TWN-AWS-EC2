@@ -6,5 +6,6 @@ Example of deploying applications to an Amazon Elastic Compute Cloud (EC2) insta
 
 ## Branches
 
-- [deploy-EC2](https://github.com/JonathanBaqDev/TWN-AWS-EC2/blob/deploy-EC2/info/deploy-EC2.md) - deploy React app with Docker
+- [deploy-EC2](https://github.com/JonathanBaqDev/TWN-AWS-EC2/blob/deploy-EC2/info/deploy-EC2.md) - Deploy React app with Docker
+- [CLI-create-EC2](https://github.com/JonathanBaqDev/TWN-AWS-EC2/blob/CLI-create-EC2/info/CLI-create-EC2.md) - Create an EC2 instance with the AWS CLI
 
