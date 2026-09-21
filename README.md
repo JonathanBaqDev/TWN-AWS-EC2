@@ -9,3 +9,9 @@ Example of deploying applications to an Amazon Elastic Compute Cloud (EC2) insta
 - [deploy-EC2](https://github.com/JonathanBaqDev/TWN-AWS-EC2/blob/deploy-EC2/info/deploy-EC2.md) - Deploy React app with Docker
 - [CLI-create-EC2](https://github.com/JonathanBaqDev/TWN-AWS-EC2/blob/CLI-create-EC2/info/CLI-create-EC2.md) - Create an EC2 instance with the AWS CLI
 - [CLI-IAM](https://github.com/JonathanBaqDev/TWN-AWS-EC2/blob/CLI-IAM/info/CLI-IAM.md) - Create an IAM user, group, and policy with the AWS CLI
+
+## Related projects
+
+- [AWS-ECR](https://github.com/JonathanBaqDev/TWN-Docker/blob/AWS-ECR/info/AWS-ECR.md) - Pushing an Application Image to Amazon Elastic Container Registry
+- [multibranch-AWS](https://github.com/JonathanBaqDev/TWN-Jenkins/blob/multibranch-AWS-compose/Info/multibranch-AWS.md) - Deploy app from Jenkins to EC2
+- [multibranch-AWS-compose](https://github.com/JonathanBaqDev/TWN-Jenkins/blob/multibranch-AWS-compose/Info/multibranch-AWS-compose.md) - Deploy app to EC2 using Docker Compose
